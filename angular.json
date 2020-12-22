@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "prueba-deploy"
+  "defaultProject": "prueba-deploy",
+  "cli": {
+    "analytics": false
+  }
 }
